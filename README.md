@@ -132,4 +132,5 @@ FROM
 ORDER BY
 	Top_Tres
 
-[Uploading My_Caso_Practico_SQL.sql…]()
+[My_Caso_Practico_SQL.txt](https://github.com/user-attachments/files/16621460/My_Caso_Practico_SQL.txt)
+
